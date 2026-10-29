@@ -27,4 +27,6 @@
 Точные команды и порядок — в приватном репозитории RussSearchOPPO (workflow «Build offline translation models», docs/hive/ml-translation).
 
 ## Статус
-Архивы опубликованы в релизе `translation-models-v1`. Код приложения находится в приватном репозитории RussSearchOPPO и не публикуется здесь.
+Архивы ещё не загружены в релиз `translation-models-v1` (владелец загружает вручную). Тег должен указывать на этот репозиторий, ветку main.
+
+Код приложения находится в приватном репозитории RussSearchOPPO и не публикуется здесь. Карта проекта для продолжения работы: `docs/hive/WHERE-IS-WHAT.md` в RussSearchOPPO.
