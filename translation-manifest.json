@@ -1,0 +1,25 @@
+{
+  "version": "1",
+  "models": {
+    "ru-en": {
+      "file": "ru-en.zip",
+      "sha256": "a8c90fa58d73450358293555e7cca3c35393d288b8d9ffbca73375d73b8bbc81",
+      "size": 193431237
+    },
+    "en-ru": {
+      "file": "en-ru.zip",
+      "sha256": "60aa39f4d03351b8d3d290d3b7228534afd29c8fd2db79f36f7ad5d5bcf35071",
+      "size": 212207892
+    },
+    "zh-en": {
+      "file": "zh-en.zip",
+      "sha256": "14c73a1d75a10bcd8bce0ebff11780ac3bc3ca97856e2f9033cc2a4d9e440c6e",
+      "size": 216773429
+    },
+    "en-zh": {
+      "file": "en-zh.zip",
+      "sha256": "649f47720a089310ef3ffbca17b182f432fecbaab7960a6ecb8009b1c2f8dfbb",
+      "size": 214057430
+    }
+  }
+}
