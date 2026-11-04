@@ -22,3 +22,8 @@ Do not upload unverified model binaries, remove existing models, or claim transl
 
 ## Resume
 Begin with read-only manifest/provenance audit and refresh PR #2 CI. Continue independently if Claude/Gemini are unavailable.
+
+
+## Documentation handoff PR
+- Continuation brief PR: [#3](https://github.com/sokfrut-tech/russ-translation-models/pull/3) (draft; not merged).
+- Review this brief against current main before code changes.
